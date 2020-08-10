@@ -1,7 +1,7 @@
 provider "aws" {
   region     = "eu-west-3"
-  access_key = "AKIAJXKJTNGRVZR5Z2YA"
-  secret_key = "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"
+  access_key = "Secret"
+  secret_key = "Secret"
 }
 
 # # Creating new Instance in AWS cloud
